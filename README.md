@@ -24,5 +24,5 @@
 
 # 📊GitHub Stats :
 <div> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sadhurahavan5555&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false" </div>
-<div> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadhurahavan5555&theme=blueberry&hide_border=true" </div>
+
 <div> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sadhurahavan5555&theme=blueberry&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Sadhurahavan5555" </div> 
